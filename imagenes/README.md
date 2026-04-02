@@ -1,3 +1,3 @@
 # Carpeta de imágenes
 
-Aquí se almacenarán las imágenes del manual.
+Aquí se almacenán las imágenes del manual.
