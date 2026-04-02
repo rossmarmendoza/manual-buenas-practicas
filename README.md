@@ -9,7 +9,7 @@ Este proyecto consiste en la elaboración de un manual de buenas prácticas acad
 
 El manual también incluye estrategias de gestión del tiempo, con el objetivo de mejorar la organización, la productividad y la calidad en la elaboración de trabajos académicos. Asimismo, se integra el uso de GitHub como plataforma para la gestión y estructuración del contenido.
 
-## 🚀 Guía de uso
+##  Guía de uso
 Para acceder al contenido completo del manual, dirígete a las siguientes carpetas del repositorio:
 
 - 📂 `/documentos`: Contiene el desarrollo principal del manual, organizado por temas.
