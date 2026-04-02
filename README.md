@@ -15,4 +15,4 @@ Manual de buenas prácticas para la elaboración de trabajos universitarios en g
 - Revisión colaborativa
 
 ## Entrega final
-El manual será exportado a PDF.
+El manual lo entregaremos exportado a un PDF.
