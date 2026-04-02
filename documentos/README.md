@@ -1,3 +1,3 @@
 # Carpeta de documentos
 
-Aquí se almacenarán las secciones del manual.
+Aquí se almacenán las secciones del manual.
