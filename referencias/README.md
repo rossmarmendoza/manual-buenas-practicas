@@ -1,3 +1,3 @@
 # Referencias
 
-Aquí se incluirán fuentes y bibliografía.
+Aquí se incluyen las fuentes y bibliografía.
